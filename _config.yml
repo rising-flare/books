@@ -1,8 +1,8 @@
 # Site settings
 title: Flaric Books
 description: A site for books and PDFs
-baseurl: "sharafat.is-a.dev/books" # If your site is hosted in a subdirectory
-url: "sharafat.is-a.dev/books" # Your GitHub Pages URL
+baseurl: "rising-flare.github.io/books" # If your site is hosted in a subdirectory
+url: "rising-flare.github.io/books" # Your GitHub Pages URL
 
 # Build settings
 markdown: kramdown
