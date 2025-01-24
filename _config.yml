@@ -1,27 +1,6 @@
-# Site settings
-title: Flaric Books
-description: A site for books and PDFs
-baseurl: "" # If your site is hosted in a subdirectory
-url: "" # Your GitHub Pages URL
-
-# Build settings
-markdown: kramdown
-theme: minima
-
 # Include static files
 include:
-  - CSE 1
-  - CSE 2
-  - CSE 3
-  - CSE 4
-  - assets/pdf
-  - assets/images
-  - static
-
-# Exclude unnecessary files
-exclude:
-  - node_modules
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-  - README.md
+  - CSE%201
+  - CSE%202
+  - CSE%203
+  - CSE%204
