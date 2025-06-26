@@ -53,6 +53,17 @@
 - [Data_Communication_and_Networking_BEHROUZ_A_FOROUZAN_Fifth_Edition.pdf](./CSE%203/Data_Communication_and_Networking_BEHROUZ_A_FOROUZAN_Fifth_Edition.pdf)
 
 
+### [CSE 5](./CSE%205)
+
+- [The Intel Microprocessors 8th Edition.pdf](./CSE%205/The%20Intel%20Microprocessors%208th%20Edition.pdf)
+- [Computer Networking_ A Top-Down Approach-Pearson (2021).pdf](./CSE%205/Computer%20Networking_%20A%20Top-Down%20Approach-Pearson%20(2021).pdf)
+- [Assembly-language-programming and organization of the ibm pc - Ytha yu & Charles marut 1992.pdf](./CSE%205/Assembly-language-programming%20and%20organization%20of%20the%20ibm%20pc%20-%20Ytha%20yu%20&%20Charles%20marut%201992.pdf)
+- [TCP_IP Protocol Suite 4E-1.pdf](./CSE%205/TCP_IP%20Protocol%20Suite%204E-1.pdf)
+- [Artificial-Intelligence-A-Modern-Approach-4th edition.pdf](./CSE%205/Artificial-Intelligence-A-Modern-Approach-4th%20edition.pdf)
+- [William Stallings - Computer Organization and Architecture D.pdf](./CSE%205/William%20Stallings%20-%20Computer%20Organization%20and%20Architecture%20D.pdf)
+- [Data_Communication_and_Networking_BEHROUZ_A_FOROUZAN_Fifth_Edition.pdf](./CSE%205/Data_Communication_and_Networking_BEHROUZ_A_FOROUZAN_Fifth_Edition.pdf)
+
+
 ## How to Contribute
 
 Simply put your books in the appropriate folder and create a pull request. We will review your contribution and merge it if it meets our standards.
